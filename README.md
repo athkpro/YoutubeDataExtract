@@ -1,5 +1,5 @@
 # YoutubeDataExtract
-This repo contains some functions I wrote to extract youtube data easily from a channel. Many of the existing solutions on the web for Youtube data tend to retrieve video by keyword searches or popularity, instead of retrieving videos by an uploaded username. This is where the function retrieve_all_from_channel() comes in.
+This repo contains some functions I wrote to extract youtube data easily from a channel. Many of the existing solutionstend to retrieve videos by keyword searches or popularity, instead of retrieving videos by an uploaded username. This is where the function retrieve_all_from_channel() comes in. Retrieving video data by channel will be useful if we want to make channel comparisons!
 
 Just enter the channel's name into the function retrieve_all_from_channel() and it will return a dataframe of 11 features consisting of:
 
